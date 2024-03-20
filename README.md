@@ -6,7 +6,7 @@
 - Tercer Integrante: Luis Fernando Medina Arredondo - 1222100413
 
 ## Objetivo General
-El proyecto ProjectsPIoT2023 tiene como objetivo principal desarrollar e implementar un sistema de Internet de las Cosas (IoT) que aborde [especificar el área o problema que aborda]. A través de la integración de hardware y software, buscamos lograr [detallar los objetivos específicos del proyecto].
+El objetivo del proyecto "Desarrollo de Herramienta de Monitoreo de Temperatura Ambiente mediante Sensores de Temperatura y Ultrasonido" (ProjectsPIoT2023) consiste en utilizar herramientas de software como Node-RED, Mosquitto y MySQL para crear una solución que facilite la medición y registro de la temperatura ambiente. Esta solución se basará en la conexión de hardware, específicamente sensores de temperatura y ultrasonido, para detectar la temperatura alrededor de su área de cobertura. El sensor ultrasonido se empleará para determinar el perímetro de detección, mientras que el sensor de temperatura será utilizado para medir la temperatura ambiente. Los datos recopilados se almacenarán en una base de datos MySQL, junto con el tiempo de encendido para tener un registro histórico.
 
 ## Tabla de Software Utilizado
 | Id  | Software | Versión | Tipo       |
