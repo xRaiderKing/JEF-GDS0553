@@ -11,26 +11,12 @@ El proyecto ProjectsPIoT2023 tiene como objetivo principal desarrollar e impleme
 ## Tabla de Software Utilizado
 | Id  | Software | Versión | Tipo       |
 | --- | -------- | ------- | ---------- |
-| 1   | [Nombre] | [Versión]| [Tipo]     |
-| 2   | [Nombre] | [Versión]| [Tipo]     |
-| ... | ...      | ...     | ...        |
+| 1   | Node-RED | v3.1.5  | Software Abierto |
+| 2   | Mosquitto| v2.0.18 | Software Abierto |
+| 3   | MYSQL    | v8.0.36 | Software Abierto |
 
-## Tabla de Hardware Utilizado
-| Id  | Componente  | Descripción           | Imagen  | Cantidad | Costo Total  |
-| --- | ----------- | ---------------------  | ------- | -------- | ------------ |
-| 1   | [Componente] | [Descripción]          | [Enlace a la Imagen]| [Cantidad]| [Costo]       |
-| 2   | [Componente] | [Descripción]          | [Enlace a la Imagen]| [Cantidad]| [Costo]       |
-| ... | ...         | ...                     | ...     | ...      | ...          |
+## Base de datos relacional
+![Base de datos relacional](url_de_la_imagen_del_prototipo_dibujado_a_lapiz)
 
-## Tabla de Historias de Usuario
-| Id  | Historia de Usuario | Prioridad | Estimación | Cómo Probarlo | Responsable |
-| --- | -------------------- | --------- | ---------- | ------------- | ----------- |
-| 1   | [Historia]           | [Prioridad]| [Estimación]| [Pasos]       | [Nombre]    |
-| 2   | [Historia]           | [Prioridad]| [Estimación]| [Pasos]       | [Nombre]    |
-| ... | ...                  | ...       | ...        | ...           | ...         |
-
-## Prototipo en Dibujo
-![Prototipo en Dibujo](url_de_la_imagen_del_prototipo_dibujado_a_lapiz)
-
-## Diagrama en Fritzing
-![Diagrama en Fritzing](url_de_la_imagen_del_circuito_propuesto_en_Fritzing)
+## Base de datos no relacional
+![Base de datos no relacional](url_de_la_imagen_del_circuito_propuesto_en_Fritzing)
