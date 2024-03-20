@@ -3,7 +3,7 @@
 ## Integrantes
 - Primer Integrante: Jesus Yael Padrón Grimaldo - 1222100457
 - Segundo Integrante: Estrella Guadalupe Aguayo Exiga - 1222100686
-- Luis Fernando Medina Arredondo - 1222100413
+- Tercer Integrante: Luis Fernando Medina Arredondo - 1222100413
 
 ## Objetivo General
 El proyecto ProjectsPIoT2023 tiene como objetivo principal desarrollar e implementar un sistema de Internet de las Cosas (IoT) que aborde [especificar el área o problema que aborda]. A través de la integración de hardware y software, buscamos lograr [detallar los objetivos específicos del proyecto].
