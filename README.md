@@ -19,4 +19,4 @@ El objetivo del proyecto "Desarrollo de Herramienta de Monitoreo de Temperatura 
 ![Base de datos relacional](https://github.com/xRaiderKing/JEF-GDS0553/blob/main/Diagrama%20Relacional.jpeg)
 
 ## Base de datos no relacional
-![Base de datos no relacional](url_de_la_imagen_del_circuito_propuesto_en_Fritzing)
+![Base de datos no relacional](https://github.com/xRaiderKing/JEF-GDS0553/blob/main/Diagrama%20no%20relacional.jpeg)
