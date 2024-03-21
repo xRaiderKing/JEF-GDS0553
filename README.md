@@ -16,7 +16,7 @@ El objetivo del proyecto "Desarrollo de Herramienta de Monitoreo de Temperatura 
 | 3   | MYSQL    | v8.0.36 | Software Abierto |
 
 ## Base de datos relacional
-![Base de datos relacional](url_de_la_imagen_del_prototipo_dibujado_a_lapiz)
+![Base de datos relacional](https://github.com/xRaiderKing/JEF-GDS0553/blob/main/Diagrama%20Relacional.jpeg)
 
 ## Base de datos no relacional
 ![Base de datos no relacional](url_de_la_imagen_del_circuito_propuesto_en_Fritzing)
